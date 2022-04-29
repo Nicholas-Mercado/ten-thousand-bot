@@ -2,7 +2,7 @@
 
 ## Project: Ten Thousand 1
 
-Author: Michelle Salazar and Nicolas Mercado
+Author: Michelle Salazar and Nicholas Mercado
 
 ## Links and Resources
 
@@ -33,7 +33,7 @@ all tests passing
  
 ## Project: Ten Thousand 2
  
-Author: Michelle Salazar and Nicolas Mercado
+Author: Michelle Salazar and Nicholas Mercado
  
 ## Links and Resources
  
@@ -62,7 +62,7 @@ all tests passing
  
 ## Project: Ten Thousand 3
  
-Author: Michelle Salazar and Nicolas Mercado
+Author: Michelle Salazar and Nicholas Mercado
  
 ## Links and Resources
  
@@ -90,7 +90,7 @@ Describe any tests that you did not complete, skipped, etc
  
 ## Project: Ten Thousand 3
  
-Author:  Nicolas Mercado
+Author:  Nicholas Mercado
  
 ## Links and Resources
  
